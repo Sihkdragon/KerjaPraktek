@@ -1,0 +1,53 @@
+assets =
+1. Mockup
+2. Tabel Data
+3. Input - Output
+
+Bahasan
+- UI hasil IoT
+	1. MASALAH
+		- Masalah yang terjadi adalah kontrol terhadap mesin masih konvensional
+- Pencatatan daun masuk dan keluar
+
+Teknologi yang digunakan:
+Bahasa
+	PHP - CODEIGNITER 4
+	JavaScript
+	HTML
+	CSS
+	MYSQL
+Library
+	REACTJS
+	CHART.JS
+Platform
+	WEBSITE
+Software
+	VISUAL STUDIO CODE
+	XAMPP
+	GIT
+	MICROSOFT WINDOWS 10 PRO
+Hardware
+	AMD RYZEN 5 3600
+	NVIDIA GEFORCE GTX 1660 SUPER
+	
+Halaman
+1. Dashboard - Penempatan susuna Kondisional
+	- Monitoring alat Iot -> 5 Output
+		1. Suhu
+		2. Kecepatan Rotasi
+		3. Kelembapan
+		4. Jumlah Pucuk/Jam
+		5. Berat
+		6. Bahan Bakar yang digunakan
+	- Tabel Data Keluar Masuk Teh
+		1. Teh Basah
+			- PerTanggal
+			- Jumlah / Kg
+		
+		2. Teh Kering
+			- PerTanggal
+			- Jumlah / Kg
+2. Input Data Keluar Masuk Teh ( Pertanggal Otomatis dengan opsi Manual )
+	- 1. Input teh basah
+	- 2. Input teh Kering
+		
